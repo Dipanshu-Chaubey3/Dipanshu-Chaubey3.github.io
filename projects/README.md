@@ -1,14 +1,12 @@
 # Project demos and source
 
-This folder contains small practical projects created for learning and portfolio demonstrations.
+This folder contains project demos and source code for portfolio projects.
 
-| Project | Language | Problem it addresses |
+| Project | Language | Repository |
 |---|---|---|
-| [FocusFlow](focusflow/) | HTML/CSS/JavaScript | Organising revision before exams |
-| [SpendSense](spendsense/) | HTML/CSS/JavaScript | Tracking personal expenses |
-| [Electricity Bill Estimator](c-electricity-estimator/) | C | Estimating household electricity costs using editable example rates |
-| [Household Budget Tracker](c-household-budget/) | C | Logging daily expenses to a local CSV |
-| [PantryPal](python-pantry-tracker/) | Python | Remembering pantry items and approaching dates |
-| [CleanSheet](python-csv-cleaner/) | Python | Cleaning whitespace, blank rows and duplicate CSV rows |
-
-These are learning prototypes. Read each project's README for setup instructions, assumptions and limitations. Validate results before relying on them for bills, food-safety decisions or financial records.
+| [Trash Sorter AI](https://github.com/Dipanshu-Chaubey3/trash-sorter-ai) | Python / AI | Separate repository |
+| [Image Recognition AI](https://github.com/Dipanshu-Chaubey3/image-recognition-ai) | Python / AI | Separate repository |
+| [Sizer AI](https://github.com/Dipanshu-Chaubey3/sizer-ai) | Web | Separate repository |
+| [Billing Web](https://github.com/Dipanshu-Chaubey3/billing-web) | Python / Web | Separate repository |
+| [C Calculator](https://github.com/Dipanshu-Chaubey3/Basic_Calculator_C) | C | Separate repository |
+| [Matrix Operations](https://github.com/Dipanshu-Chaubey3/Matrix_operations) | C | Separate repository |
